@@ -63,11 +63,8 @@ Four different passwords with varying complexity were tested:
 
 ## Screenshots
 **Include your screenshots from PasswordMeter.com showing each password’s score here:**
+Screenshots(screenshots)
 
-1. ![password123](screenshots/password123.png)
-2. ![Pass123](screenshots/pass123.png)
-3. ![P@ssword2025](screenshots/p@ssword2025.png)
-4. ![SecureP@ss2025](screenshots/securep@ss2025.png)
 
 ---
 ## Conclusion
