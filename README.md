@@ -63,7 +63,7 @@ Four different passwords with varying complexity were tested:
 
 ## Screenshots
 **Include your screenshots from PasswordMeter.com showing each password’s score here:**
-Screenshots(screenshots)
+**[screenshots folder](screenshots/)**
 
 
 ---
